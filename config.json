@@ -1,0 +1,15 @@
+{
+    "default": [
+        "https://*.box.com",
+        "https://*.trimble.com",
+        "https://*.zoominfo.com"
+    ],
+    "tenants": {
+        "11111111-1111-1111-1111-111111111111": {
+            "add": [
+            ],
+            "remove": [
+            ]
+        }
+    }
+}
