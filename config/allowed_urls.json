@@ -6,7 +6,9 @@
     ],
     "tenants": {
         "11111111-1111-1111-1111-111111111111": {
+            "tenant_name":"TEST",
             "add": [
+                "https://*.box.com",
             ],
             "remove": [
             ]
