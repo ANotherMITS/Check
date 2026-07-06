@@ -6,12 +6,11 @@
     ],
     "tenants": {
         "11111111-1111-1111-1111-111111111111": {
-            "tenant_name":"TEST",
+            "tenant_name": "TEST",
             "add": [
-                "https://*.box.com",
+                "https://*.box.com"
             ],
-            "remove": [
-            ]
+            "remove": []
         }
     }
 }
