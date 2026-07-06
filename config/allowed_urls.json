@@ -1,6 +1,8 @@
 {
     "default": [
+        "https://*.adobe.com",
         "https://*.box.com",
+        "https://*.ebay.co.uk",
         "https://*.trimble.com",
         "https://*.zoominfo.com"
     ],
