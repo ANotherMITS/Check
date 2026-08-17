@@ -8,6 +8,7 @@
         "https://*.googleapps.com",
         "https://*.trimble.com",
         "https://*.zoominfo.com"
+        "https://*.shopifyapps.com"
     ],
     "tenants": {
         "11111111-1111-1111-1111-111111111111": {
