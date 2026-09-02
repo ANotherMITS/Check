@@ -8,8 +8,8 @@
         "https://*.googleadservices.com",
         "https://*.googleapps.com",
         "https://*.trimble.com",
-        "https://*.zoominfo.com"
-        "https://*.shopifyapps.com"
+        "https://*.zoominfo.com",
+        "https://*.shopifyapps.com",
         "https://flow.shopifyapps.com"
     ],
     "tenants": {
