@@ -12,7 +12,7 @@
         "https://app.zoominfo.com",
         "https://*.shopifyapps.com",
         "https://flow.shopifyapps.com",
-        "plmsisw.my.site.com"
+        "https://plmsisw.my.site.com"
     ],
     "tenants": {
         "11111111-1111-1111-1111-111111111111": {
