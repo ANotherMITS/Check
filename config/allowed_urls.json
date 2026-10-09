@@ -9,7 +9,9 @@
         "https://*.googleapps.com",
         "https://*.trimble.com",
         "https://*.zoominfo.com",
+        "https://*.myshopify.com",
         "https://app.zoominfo.com",
+        "https://admin.shopify.com",
         "https://*.shopifyapps.com",
         "https://flow.shopifyapps.com",
         "https://plmsisw.my.site.com"
