@@ -1,0 +1,22 @@
+
+{
+  "exclusion_system": {
+    "domain_patterns": [
+      "^https://[^/]*\\.adobe\\.com(/.*)?$",
+      "^https://[^/]*\\.box\\.com(/.*)?$",
+      "^https://[^/]*\\.britishgas\\.co\\.uk(/.*)?$",
+      "^https://[^/]*\\.ebay\\.co\\.uk(/.*)?$",
+      "^https://[^/]*\\.facebookblueprint\\.com(/.*)?$",
+      "^https://[^/]*\\.googleadservices\\.com(/.*)?$",
+      "^https://[^/]*\\.googleapps\\.com(/.*)?$",
+      "^https://[^/]*\\.trimble\\.com(/.*)?$",
+      "^https://[^/]*\\.zoominfo\\.com(/.*)?$",
+      "^https://[^/]*\\.myshopify\\.com(/.*)?$",
+      "^https://app\\.zoominfo\\.com(/.*)?$",
+      "^https://admin\\.shopify\\.com(/.*)?$",
+      "^https://[^/]*\\.shopifyapps\\.com(/.*)?$",
+      "^https://flow\\.shopifyapps\\.com(/.*)?$",
+      "^https://plmsisw\\.my\\.site\\.com(/.*)?$"
+    ]
+  }
+}
