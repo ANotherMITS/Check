@@ -4,7 +4,7 @@
     "domain_patterns": [
       "^https://[^/]*\\.adobe\\.com(/.*)?$",
       "^https://[^/]*\\.box\\.com(/.*)?$",
-      "^https://[^/]*\\.britishgas\\.co\\.uk(/.*)?$",
+      "^https://([a-zA-Z0-9-]+\.)*britishgas\.co\.uk(/.*)?$",
       "^https://[^/]*\\.ebay\\.co\\.uk(/.*)?$",
       "^https://[^/]*\\.facebookblueprint\\.com(/.*)?$",
       "^https://[^/]*\\.googleadservices\\.com(/.*)?$",
